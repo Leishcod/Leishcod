@@ -1,8 +1,8 @@
 <div align="center">
   
-# ¡Buenas!, aquí Leonel Cruzado 👋
+# ¡Buenas!, aquí Leonel Cruzado
   
-**Estudiante de Ingeniería de Sistemas en la UNI | Décimo Superior**
+**Estudiante de Ingeniería de Sistemas en la UNI | Décimo Superior | Cuarto Ciclo**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=System+Engineer+Student;Data+Analysis+Enthusiast;In+Process+Developer;GAMER)](https://git.io/typing-svg)
 
