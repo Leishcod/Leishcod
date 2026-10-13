@@ -10,8 +10,14 @@
 
 ### 🚀 Sobre mí
 
-* 🎓 Estoy cursando el **4to ciclo** de Ingeniería de Sistemas en la **Universidad Nacional de Ingeniería**, la **UNI** para los amigos.
+* 🎓 Estoy cursando el **5to ciclo** de Ingeniería de Sistemas en la **Universidad Nacional de Ingeniería**, la **UNI** para los amigos.
 * 📚 Pertenezco al **Décimo Superior** de la Facultad de **Ingeniería Industrial y de Sistemas** (FIIS).
-* 👤 Miembro de el área de **Investigación y Desarrollo** en [Unicode](#) y miembro de **IT** en TinkuyLabs.
+* 👤 Miembro de el área de **Investigación y Desarrollo** en [Unicode](#), Codirector de **IT** en TinkuyLabs, Coordinador de **RRPP** de CODE y Director de **Investigación y Desarrollo** en AIS.
 
+### 🛠️ Tecnologías y herramientas
+
+* Frontend: Astro · HTML · CSS · JavaScript · TypeScript · Tailwind CSS
+* Backend y bases de datos: Python · FastAPI · PostgreSQL · Supabase · SQL
+* Herramientas: Git · GitHub · Vercel
+[![My Skills](https://skillicons.dev/icons?i=astro,html,css,js,ts,tailwind,python,fastapi,postgres,supabase,git,github,vercel,figma,java,cpp)](https://skillicons.dev)
 ---
