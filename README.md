@@ -2,7 +2,7 @@
   
 # ¡Buenas!, aquí Leonel Cruzado
   
-**Estudiante de Ingeniería de Sistemas en la UNI | Décimo Superior | Cuarto Ciclo**
+**Estudiante de Ingeniería de Sistemas en la UNI | Décimo Superior | Quinto Ciclo**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=System+Engineer+Student;Data+Analysis+Enthusiast;In+Process+Developer;GAMER)](https://git.io/typing-svg)
 
