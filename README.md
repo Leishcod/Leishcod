@@ -19,5 +19,7 @@
 * Frontend: Astro · HTML · CSS · JavaScript · TypeScript · Tailwind CSS
 * Backend y bases de datos: Python · FastAPI · PostgreSQL · Supabase · SQL
 * Herramientas: Git · GitHub · Vercel
-[![My Skills](https://skillicons.dev/icons?i=astro,html,css,js,ts,tailwind,python,fastapi,postgres,supabase,git,github,vercel,figma,java,cpp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=astro,html,css,js,ts,tailwind,python,postgres,supabase,git,github,vercel,cpp)](https://skillicons.dev)
+
 ---
